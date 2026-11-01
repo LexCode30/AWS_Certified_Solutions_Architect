@@ -1,0 +1,294 @@
+# AWS Certified Solutions Architect
+
+1. Course Introduction  [s1.html]
+    001. AWS Certified Solutions Architect  ->  https://drive.google.com/file/d/1NTMCEeNJOB6gOUsl6zJRbEyTrluZoF0v/preview
+    002. Why This Course  ->  https://drive.google.com/file/d/1Ne6FMLKPAHKdIkT24dH4nTUzxGT3qdcq/preview
+    003. Where This Fits into the AWS Certification Path  ->  https://drive.google.com/file/d/1Njo_hLBifD4AK-ffbmimAHOzPIPoJInM/preview
+    004. Course Outline  ->  https://drive.google.com/file/d/1NmVeR0kGKN7hITXq-abkTz4HfH3tmSD3/preview
+    005. DEMO Creating an AWS Account for Labs  ->  https://drive.google.com/file/d/1Nv8oLGspJLiVtV2S8BHTKcBaudiWsZwl/preview
+    006. DEMO Creating an AWS Budget for Labs  ->  https://drive.google.com/file/d/1Nu8xdNrlrz47dyHdkEKggRBS4Bq7KJfO/preview
+
+2. AWS Cloud Practitioner Refresher  [s2.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1VQb9EMU1OIKUl3YIvrDqGLHki_eRZ6ep/preview
+    002. AWS Infrastructure Concepts  ->  https://drive.google.com/file/d/1Vm76WAOBgjKVKL8xMbbZpRfxAKf3FLy2/preview
+    003. Core AWS Services  ->  https://drive.google.com/file/d/1Vgxl9BtUCV11ulvu_ONJkZdCmSap2Ixx/preview
+    004. An Overview of Ways to Work with AWS  ->  https://drive.google.com/file/d/1Ug4rHQmGriG4MuwwBR43SnwHpCl4UfoB/preview
+    005. DEMO Installing the AWS CLI on Windows  ->  https://drive.google.com/file/d/1Udmr9UQj72l-AVA1xOvQuYlljxwk7N5A/preview
+    006. DEMO Installing the AWS CLI on Linux  ->  https://drive.google.com/file/d/1Uc2hwR01_FvQy8DxfXgFuCF6Z68SiIsQ/preview
+    007. DEMO Installing the AWS CLI on Mac  ->  https://drive.google.com/file/d/1UgSx7Uftq_bF_zvOzmDKsbKIfrmJgU7i/preview
+    008. DEMO Configuring the CLI on Linux Windows and Mac  ->  https://drive.google.com/file/d/1VHNxTIXQggE_DH1X_sQoBWmcFSi6D2BZ/preview
+    009. DEMO Working with AWS CloudShell  ->  https://drive.google.com/file/d/1VelX_1T1lOOD3E6RRMGnEpw0eTqBvhEq/preview
+    010. Important Points to Remember  ->  https://drive.google.com/file/d/1VTWA5pt5VmqBjPrVYJBQPT7gK8Z0OVv5/preview
+
+3. Authentication and Authorization Identity and Access Management IAM  [s3.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1WCEAFAN2R7Xtf3T2jC8GsbtfYPLK53_j/preview
+    002. AWS Identity and Access Management IAM Overview  ->  https://drive.google.com/file/d/1WB4jkiy2syNGYhrqTI-WycKqD0GrGvoI/preview
+    003. DEMO Creating IAM Users  ->  https://drive.google.com/file/d/1WA1k_ysXi-aXzpxHwDtJ83dQ845rXmt4/preview
+    004. DEMO Creating IAM User Groups  ->  https://drive.google.com/file/d/1WHIOsBPg3D4uzKgwjv930846_WMPabyU/preview
+    005. IAM Roles  ->  https://drive.google.com/file/d/1WElouyr70H9MGGDeMawoLEKGYxgXnSDZ/preview
+    006. IAM Policies  ->  https://drive.google.com/file/d/1WW0QSGzTr4m_qFXEeapL8-jfrfxDu67a/preview
+    007. DEMO Creating IAM Policies  ->  https://drive.google.com/file/d/1WOG-rtuOSFeotfVimeiNxMnnKyv-zhUs/preview
+    008. DEMO Attaching IAM Policie  ->  https://drive.google.com/file/d/1X3TKg0WTsuyShtEWVKz1nyky37o3Yfdl/preview
+    009. Security Token Service STS Overview  ->  https://drive.google.com/file/d/1WMNHBJZj4UEZuO314W5V_9R87M1SzDV1/preview
+    010. DEMO Switching Roles in the AWS Console  ->  https://drive.google.com/file/d/1XFF4j_1BODBKSZ1kow_7-N8ftaqNwdbP/preview
+    011. Identity Federation  ->  https://drive.google.com/file/d/1X0MZPJ4BQNK2-KLu5pbaXA57oJ69HM3i/preview
+    012. AWS Directory Services Overview  ->  https://drive.google.com/file/d/1XH7W4bQMInRWwjAKHLhI8SjlGuX3FQlx/preview
+    013. AWS Single Sign-On Overview  ->  https://drive.google.com/file/d/1XahWEPfwTtArvdR1xMN9xPAYfwGW7sXR/preview
+    014. Accounts and Organizations Overview  ->  https://drive.google.com/file/d/1XYTqXqFiUJyaKwyejEkF1w6OLp2hay12/preview
+    015. DEMO Working with Organizations Accounts and AWS Control Tower  ->  https://drive.google.com/file/d/1XpvaF7f7GgoUNPKXFezQbYqwd5Qihtxm/preview
+    016. Important Points to Remember  ->  https://drive.google.com/file/d/1XRY2QGyFIWTDq6mHX33btv-yJtCg3J70/preview
+
+4. Compute  [s4.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1YHW0uPlkMCr6xqGpTCH5HkSrGtH_MT60/preview
+    002. EC2 Overview Instance Types and Purchasing  ->  https://drive.google.com/file/d/1YGBC16bxi-POfqD5TbtZPw3Je3F0pCb5/preview
+    003. DEMO Creating an EC2 Instance  ->  https://drive.google.com/file/d/1XvJuYvhOQ9nc4xKCAEqE0HU2QsYD-TJi/preview
+    004. Amazon Machine Images AMIs Overview  ->  https://drive.google.com/file/d/1YAbHi2ORd2tq5OpQjvgV09DcgVfK8OhX/preview
+    005. DEMO Creating an Amazon Machine Image AMI  ->  https://drive.google.com/file/d/1YLUcZCYmNM-0ReSDoi64P9BOtsCf9fL_/preview
+    006. Connecting to EC2 Instances Overview  ->  https://drive.google.com/file/d/1XvaQF_u9wA8vw5iyYz6DiXWuWtSC_YLa/preview
+    007. DEMO SSH Connection from Linux  ->  https://drive.google.com/file/d/1YNcAcq0kGU9oc5n4AQdyI94E-rHied_N/preview
+    008. DEMO SSH Connection from Mac  ->  https://drive.google.com/file/d/1YO9nnoZkBkxHQ77MvvehKMXv8VIT-ceB/preview
+    009. DEMO SSH Connection from Windows 10 or Higher  ->  https://drive.google.com/file/d/1YSyHoH5n3BdLwFurVHAp3rtG7dSWdYSM/preview
+    010. DEMO SSH Connection from Windows 8 or Earlier  ->  https://drive.google.com/file/d/1YX4TfvG-nIVzKjXMvoTwZVM-72thCEiX/preview
+    011. DEMO EC2 Instance Connect with Linux  ->  https://drive.google.com/file/d/1YdBmmDUEv4TB4q_wzUsP8JEw4LIuEipG/preview
+    012. DEMO Remote Desktop with Windows  ->  https://drive.google.com/file/d/1Ya8HMnoTS-3sZjrHXSZUz3zPmL8ymcYh/preview
+    013. EC2 Placement Groups Overview  ->  https://drive.google.com/file/d/1YgCptQhw2UhIwIdjMPOcs9bjY7j4bVi-/preview
+    014. DEMO Creating EC2 Placement Groups  ->  https://drive.google.com/file/d/1Yk9Evfj_NMMxiaijl3QCGtKc9GA2G4mm/preview
+    015. EC2 Storage Elastic Block Store EBS Overview  ->  https://drive.google.com/file/d/1YsXjNn8VP83O6F0rqBmle7eMHVPfFWXk/preview
+    016. DEMO Creating and Attaching an EBS Volume  ->  https://drive.google.com/file/d/1YsgaMOwWKWbyOUI17F4W2-7WTt221zyF/preview
+    017. EC2 Storage EC2 Instance Store Overview  ->  https://drive.google.com/file/d/1YyhSgK5vx6Gux_F_BNh_B7YzNLdcJDDm/preview
+    018. Lambda Overview  ->  https://drive.google.com/file/d/1YzlZOlicG4P4SnXuM25LdmIN04QOTR4n/preview
+    019. DEMO Creating a Lambda Function with an S3 Trigger  ->  https://drive.google.com/file/d/1Z1P4n8Esb6uxBmdkWgXhaGgyQTOh09O4/preview
+    020. Lambda Quotas and Use Cases  ->  https://drive.google.com/file/d/1Z2Q156kdrJ-QfJk47vGCsU3PEDWPrIn2/preview
+    021. Elastic Beanstalk Overview  ->  https://drive.google.com/file/d/1Z1sVzpl1QI_U8uvKn_5aGjhJn1EhgFwy/preview
+    022. DEMO Creating an App with Elastic Beanstalk  ->  https://drive.google.com/file/d/1Z2Zhh97I8Ubwdb6avO9qYECxB2_TvAtR/preview
+    023. Containers and Docker Overview  ->  https://drive.google.com/file/d/1ZCq4fgDGatoj3XcAqvYR3kvTH54lZCYB/preview
+    024. Containers on AWS ECS EKS Fargate and ECR Overview  ->  https://drive.google.com/file/d/1Z3ySpyvr6NKA8zkNgIKofXQSEPnjTnzs/preview
+    025. Elastic Container Service ECS Terminology and Concepts  ->  https://drive.google.com/file/d/1ZKuNqHpP8JXm97538tCzsOt8vHVPtVvU/preview
+    026. DEMO Creating an ECS Cluster  ->  https://drive.google.com/file/d/1ZDBspeQDGbOB2Ik4MEWJoO9N3i5f1ajE/preview
+    027. DEMO Creating an ECS Service  ->  https://drive.google.com/file/d/1ZPUjiRus7D9-ZaUmmJqWNHCWnaXNqPrt/preview
+    028. Important Points to Remember  ->  https://drive.google.com/file/d/1ZQtF4BM7nqUzgFmA4exrzRTLz6AF9kCe/preview
+
+5. Elastic Load Balancing and Auto Scaling  [s5.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1ZfoTur1CBM9kEg5H-9cLgtFo0nSG5eZA/preview
+    002. Elastic Load Balancing Overview  ->  https://drive.google.com/file/d/1ZcT4SkioOr3S_3J-JSWavQstg58dR5ex/preview
+    003. DEMO Creating an Application Load Balancer  ->  https://drive.google.com/file/d/1ZS6fcvpA8uTRT74eTWd64o0R46xdePoi/preview
+    004. Sticky Sessions Overview  ->  https://drive.google.com/file/d/1ZbrZsbU-3CQ1ZKbtNHXchaZu0qdPxvJa/preview
+    005. DEMO Working with Load Balancer Sticky Sessions  ->  https://drive.google.com/file/d/1Zk07g1n_8r8W6P1dGTYCnb7PlZgYT57f/preview
+    006. Connection Draining and Deregistration Delay  ->  https://drive.google.com/file/d/1ZVrmu3ucymsavWCZ9nDGt3Ek3DW2NEAI/preview
+    007. Load Balancing with TLSSSL Certificates  ->  https://drive.google.com/file/d/1ZogIclg-uRtqFZtxRLDtQMU99IjG4dNB/preview
+    008. Auto Scaling Groups Overview  ->  https://drive.google.com/file/d/1ZndZ0KY2Ay__QfOdC_sxPUp1kdk3CRsq/preview
+    009. DEMO Creating an Auto-Scaling Group  ->  https://drive.google.com/file/d/1ZrQdxoY-ZEYxI4_rr1w98aOAonkcJQp5/preview
+    010. Auto Scaling Policies  ->  https://drive.google.com/file/d/1_7BmuumtyABzDP2hQv94ClfJ8QUEHvrr/preview
+    011. DEMO Creating an ECS Service with a Load Balancer  ->  https://drive.google.com/file/d/1_7rpHwyHGvLm6Ec_5wY1GJpAe8ekQoCd/preview
+    012. Auto Scaling with ECS  ->  https://drive.google.com/file/d/1_JFP8gHxgsDPCxLFuXssGO4Pzye4MvVq/preview
+    013. Auto Scaling for RDS and DynamoDB  ->  https://drive.google.com/file/d/1_GAreuP9l5_9ALFJrKW3wjNigGZ839ee/preview
+    014. Important Points to Remember  ->  https://drive.google.com/file/d/1_FfMak8jEhDH7T7h2nRtQvwH_JzutYZ5/preview
+
+6. Networking  [s6.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1_OiILno0I4X3HYQpxQxX3PUILUwxTgqM/preview
+    002. Virtual Private Cloud VPC Overview  ->  https://drive.google.com/file/d/1_fLJlRe_318_39Vr2W1NsccfnQ41zwMg/preview
+    003. Private Public and Elastic IP Addresses  ->  https://drive.google.com/file/d/1_iCB1GWg_D0_5_Y2XYk5oOZfcn1d4NBC/preview
+    004. CIDR Notation and RFC 1918  ->  https://drive.google.com/file/d/1_jXW6unkebp4dvSmqBonqbQJepwG1Z9-/preview
+    005. DEMO Creating a VPC  ->  https://drive.google.com/file/d/1_hbFn76SDe154rzh4rcK1EhLlXM9u31m/preview
+    006. Subnets Overview  ->  https://drive.google.com/file/d/1a-9Wb9HPCk9mdA3_EUZJUoXIaG0XhF0K/preview
+    007. DEMO Creating Subnets in a VPC  ->  https://drive.google.com/file/d/1_v0c6KOHNOUS22a-WuWHiLHwGbxCHGVf/preview
+    008. Internet Gateways and Route Tables Overview  ->  https://drive.google.com/file/d/1a6QaSLLnYXbTaU5RiHrOUb8ULkU3ZTuR/preview
+    009. DEMO Creating an Internet Gateway and Routing to It  ->  https://drive.google.com/file/d/1a6aSpl66vl_PTsEqiXnpIFf9wSPvgeV-/preview
+    010. Elastic Network Interfaces ENI Overview  ->  https://drive.google.com/file/d/1_Whi5hFjy8J1CBitPpxkfU4sWY6fMDYo/preview
+    011. DEMO Working with Elastic Network Interfaces ENIs  ->  https://drive.google.com/file/d/1a7AAoLWLWI54wHPhow5B08xRjC2J5ns8/preview
+    012. Security Groups Overview  ->  https://drive.google.com/file/d/1aG2LUcL6KWR67wRBmj7i2IzLnHt_XNGH/preview
+    013. DEMO Creating a Custom Security Group  ->  https://drive.google.com/file/d/1aEIrNp3jic0CxFSzb-tx8LOLkUd09RBG/preview
+    014. Network Access Control Lists NACLs Overview  ->  https://drive.google.com/file/d/1aPDCu1oXr8CPK7zAGgkn9CgwJiyn5A5o/preview
+    015. DEMO Working with Network Access Control Lists NACLs  ->  https://drive.google.com/file/d/1ag3UkJUTk9SER_F-Y7dgQTqp53Og4M_H/preview
+    016. Network Access Control Lists NACLs vs. Security Groups  ->  https://drive.google.com/file/d/1abqyNcmolb-vVAX1sNSjq8T_OkhOZhx1/preview
+    017. Network Address Translation NAT Overview  ->  https://drive.google.com/file/d/1aVGd0P7uxQYx60rLM-ntY-BgHhU76_Rx/preview
+    018. Network Address Translation NAT Devices  ->  https://drive.google.com/file/d/1apvor_T3x17tM-_w6YUcznOJIgBbHWMB/preview
+    019. Bastion Hosts Overview  ->  https://drive.google.com/file/d/1ane9gPno3gIr3FpCTTLzWEU8kgWjmxwo/preview
+    020. VPC Peering Overview  ->  https://drive.google.com/file/d/1am49hMp3EBfnVuZqGcjreLmgOa0jb4mF/preview
+    021. DEMO Setting up VPC Peering  ->  https://drive.google.com/file/d/1as4iQ1AbXyNrVutcSsJLeGjRF1kkQl55/preview
+    022. VPC Endpoints Overview  ->  https://drive.google.com/file/d/1awttkKF-L7BHKZyWg-7QHf9k3gAXPwnp/preview
+    023. VPC Flow Logs Overview  ->  https://drive.google.com/file/d/1auD1UVEfC4ydYdPfpLgONp1NiejPKymQ/preview
+    024. VPC Reachability Analyzer Overview  ->  https://drive.google.com/file/d/1axw3CY_lLhejvEx3Jn4jeASwnNDoyt1G/preview
+    025. DEMO Working with VPC Reachability Analyzer  ->  https://drive.google.com/file/d/1ayXDkk_C1x4hFrWAYIczuC2hlAHzjDrm/preview
+    026. IMPORTANT Shut Down Resources  ->  https://drive.google.com/file/d/1_ONKQugQAxoTS3gabSmhdLNkKlShfUuN/preview
+    027. Site-to-Site VPN Overview  ->  https://drive.google.com/file/d/1_OG4aCcai8-RxT1BX7rfljVGrEG5yS-e/preview
+    028. Direct Connect Overview  ->  https://drive.google.com/file/d/1_MA8XS9xnopc_y4UhmaVkczUKpzlT2Q4/preview
+    029. Transit Gateway Overview  ->  https://drive.google.com/file/d/1_TO-MsEI80OHH9FFvghF8GNGNSZn9-u4/preview
+    030. Important Points to Remember  ->  https://drive.google.com/file/d/1_SlyH4rTpUH2Y4Fn7qay1AUGvqYlt05D/preview
+
+7. Storage  [s7.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1bELCYoSnECWzNfBLMHxDBfihXMK5MhCJ/preview
+    002. Overview  ->  https://drive.google.com/file/d/1bB-QwwWhyG1bOfPsC9yqaLRXEhb56HnM/preview
+    003. DEMO Creating and Uploading to an S3 Bucket  ->  https://drive.google.com/file/d/1bF6n-7PsLNBQVK9hyhMPyjlUCWLp-CAu/preview
+    004. Durability and Availability  ->  https://drive.google.com/file/d/1b8yp9bO-pwRlpfJNCe2FgyeOLXOCR1uj/preview
+    005. Encryption with S3 Overview  ->  https://drive.google.com/file/d/1bFLjzB0XMdMzj2fQNrkAjdT8QPJT4dmp/preview
+    006. DEMO Encrypting Buckets and Objects in S3  ->  https://drive.google.com/file/d/1bKHhcfx6jySJkakNtgfSWNTF02Ach8T0/preview
+    007. S3 Versioning Overview  ->  https://drive.google.com/file/d/1bS5p9qG3_5oc21H4NDb1ML9XOAw7e3Rx/preview
+    008. DEMO Enabling Versioning in S3  ->  https://drive.google.com/file/d/1bT1MZGcIdgJrKQhNVbkALzUzDTtob8Jv/preview
+    009. S3 Storage Classes and Lifecycle Overview  ->  https://drive.google.com/file/d/1bartEWCP0y0l1z736SJnIMZI7t5ogLVe/preview
+    010. DEMO Creating S3 Lifecycle Rules  ->  https://drive.google.com/file/d/1bgEq0X9itA4VNNX24zzs1XJ5hF9yPtew/preview
+    011. Accessing S3 Objects  ->  https://drive.google.com/file/d/1bbp2-BDvPZNjpV4L2qQJY7eT7iahhTne/preview
+    012. DEMO Creating an S3 Bucket Policy  ->  https://drive.google.com/file/d/1bk5kboBDa0CtmCAKMSbdVzjZWdTyf0UH/preview
+    013. DEMO Working with Presigned URLs  ->  https://drive.google.com/file/d/1bt216TaKZL1sz_nkeE5uvP_CycW0tJ9Q/preview
+    014. DEMO Hosting a Static Website on S3  ->  https://drive.google.com/file/d/1bwr7mpeS_PerJHysNoy4moCgfGHeMmdx/preview
+    015. Cross-Origin Resource Sharing CORS and S3  ->  https://drive.google.com/file/d/1cBCAo2PvYHrvGo5ufMj36Id-yfRnvhvN/preview
+    016. Elastic File System EFS Overview  ->  https://drive.google.com/file/d/1bpkdm1B80Q9ZQxK42-VYCjT9OEW-2cck/preview
+    017. Amazon FSx  ->  https://drive.google.com/file/d/1bktacGGnTOKXJDyE6DW91fmNUAzqfJyZ/preview
+    018. Storage Gateway  ->  https://drive.google.com/file/d/1cBJYS2CkpGDnHnCaafmJRoKXfZNquByk/preview
+    019. Snow Family of Products  ->  https://drive.google.com/file/d/1cIwYC-tGUWOs_x6JOfTUZM_UozieK4x6/preview
+    020. Important Points to Remember  ->  https://drive.google.com/file/d/1cHhsGocuAmels4EQy7WB1vTOB630Emdu/preview
+    021. Exercise Imposter Syndrome  ->  https://drive.google.com/file/d/1cbNYXFXU3Zyipz-qSH5Xch6-_7p0oUeW/preview
+
+8. Databases  [s8.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1cuZef2AgJ7YjAJXURfglsazv7rAo4zii/preview
+    002. Overview of Databases in AWS  ->  https://drive.google.com/file/d/1cs4vjPbVlqsnXBzdUGSkUXqMzG9bShDW/preview
+    003. Amazon Relational Database Service RDS Overview  ->  https://drive.google.com/file/d/1coCnbAiSDyBbzC_HMViHegbTTUfzn9A-/preview
+    004. DEMO Amazon RDS Creating and Connecting to a MySQL Database  ->  https://drive.google.com/file/d/1cv0iC5guTPd71ZlZ0NqsDl6mPAMBLlqy/preview
+    005. Amazon Redshift Overview  ->  https://drive.google.com/file/d/1dASYutkcvbnZ1C9bdOzK5rF3TU_gErZg/preview
+    006. Amazon DynamoDB Overview  ->  https://drive.google.com/file/d/1d2ggdtBizDFUqFkBVpzQUDkCAVJyQ_PE/preview
+    007. DEMO Creating a DynamoDB Table  ->  https://drive.google.com/file/d/1dJkH26v8ePZ9fDOAFkIDaYMtwFuQBWCS/preview
+    008. Amazon ElastiCache Overview  ->  https://drive.google.com/file/d/1cyh3wOHoy0YjkDP9aM5qKfue9dHsX0WL/preview
+    009. Amazon Neptune Overview  ->  https://drive.google.com/file/d/1cxMBUWpOaUQa35YeH_CjXou4RPPw0B5R/preview
+    010. Important Points to Remember  ->  https://drive.google.com/file/d/1dIs0QD1AtTv0JRMgRzPl8-6evjLo11rW/preview
+
+9. Data Migration and Transfer  [s9.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1dHsg0k0r1FSX2pXKh4PT0ErUJr2a21nP/preview
+    002. AWS Database Migration Service DMS Overview  ->  https://drive.google.com/file/d/1dwpmkVgLHYukPCK2ugXPUQrotFarnJZD/preview
+    003. AWS DataSync Overview  ->  https://drive.google.com/file/d/1dFqMNrchef0NR6UCoRYr7YdntOA4y5Bu/preview
+    004. AWS Application Migration Service Overview  ->  https://drive.google.com/file/d/1dkCoXoOotCW2nWiRzY4xXwQiEqBG5vLL/preview
+    005. AWS Transfer Family Overview  ->  https://drive.google.com/file/d/1dh64d23ACriNB1wOf7ZHzHyYjEJoJtvS/preview
+    006. AWS Snow Family Overview  ->  https://drive.google.com/file/d/1ddw46FkLgndkeQWolK2Gf1Evt6UrE97-/preview
+    007. Important Points to Remember  ->  https://drive.google.com/file/d/1dNpT9v3zfHy9B2cwUIeQJ_LmxtJ2KRjW/preview
+
+10. Analytics  [s10.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1OlvFgRl-G4IMIXXlZkbtu0YJDXaCcWqu/preview
+    002. Amazon Athena Overview  ->  https://drive.google.com/file/d/1OjR9cHrCEfoF7zNj5pLstUxNdHRTdV-c/preview
+    003. DEMO Using Athena to Query S3 Data  ->  https://drive.google.com/file/d/1O4VwGQiXT9VN8JOldC7UhoDG3pavxAfI/preview
+    004. Amazon Kinesis Family Overview  ->  https://drive.google.com/file/d/1ORH1iHwiQIoSp39lfiGV2Q8qYjBIqMm5/preview
+    005. Amazon QuickSight Overview  ->  https://drive.google.com/file/d/1OPPSIior9j311TF-TynQKtwYq45Y8qf0/preview
+    006. Amazon EMR Overview  ->  https://drive.google.com/file/d/1OGmxwxrglsYbjwajE5qlNE2ea65voXib/preview
+    007. Important Points to Remember  ->  https://drive.google.com/file/d/1OCcxCHL5BD7cr_piv9OOJFAQ9QEwgLCS/preview
+
+11. Monitoring  [s11.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1OzRgRfd2MknAZ9XjUbBeUpD4IyQJr2ua/preview
+    002. CloudWatch Overview  ->  https://drive.google.com/file/d/1OqjqvGw7tFyJF_tOxqbJIIxNL8kXu8ss/preview
+    003. CloudWatch Metrics Overview  ->  https://drive.google.com/file/d/1Oqbc1uYF24QSP3VewvgF_YhDLP1pmXd3/preview
+    004. DEMO Working with CloudWatch Metrics  ->  https://drive.google.com/file/d/1P4xFLsb63dmYTbcUNIFnixO1fYLWOw3q/preview
+    005. CloudWatch Logs Overview  ->  https://drive.google.com/file/d/1OmH2q3MoFNNxaHAvZ4qeS8ocI3ggZVPd/preview
+    006. DEMO Working with CloudWatch Logs  ->  https://drive.google.com/file/d/1PA74XpFVGGjooM-XkCmjkZLDOQEFDWv7/preview
+    007. CloudWatch Alarms Overview  ->  https://drive.google.com/file/d/1P4w4c03QmjNLSvHE0uscE71qIqVr6xTV/preview
+    008. DEMO Working with CloudWatch Alarms  ->  https://drive.google.com/file/d/1PGCnragdiNKWPxeTwy2ZLzyZn2xoUTTS/preview
+    009. CloudWatch Dashboards Overview  ->  https://drive.google.com/file/d/1PRHSUOpCIb6U7UxM829HhsRDLmSgzh0-/preview
+    010. DEMO Working with CloudWatch Dashboards  ->  https://drive.google.com/file/d/1PJFoC-Rk-0PmUHdXAmoHnulM4C8Fsc_d/preview
+    011. CloudWatch Agent Overview  ->  https://drive.google.com/file/d/1PJ63Zy4SKa1PBjNmqc2C3s7Mgbi_kcFd/preview
+    012. CloudTrail Overview  ->  https://drive.google.com/file/d/1PS3kCF_TRTTpQdKSHuSv8alb7a9pZcXd/preview
+    013. DEMO Working with CloudTrail  ->  https://drive.google.com/file/d/1P_iZ_J-OkPaI0WEhIG7EFtfArBEFoX_U/preview
+    014. CloudWatch vs. CloudTrail  ->  https://drive.google.com/file/d/1Pei9r8IbXv6mlAOMdiYQDiFLoxJ9WBV7/preview
+    015. AWS Config Overview  ->  https://drive.google.com/file/d/1Pcl-Or7yzH54OZqLVE9Y20KFGgM0soIK/preview
+    016. DEMO Working with AWS Config  ->  https://drive.google.com/file/d/1PfJgsNSeKtRxCXGejYme1_laZSCP34mz/preview
+    017. Important Points to Remember  ->  https://drive.google.com/file/d/1PgLI1iYlHVq-YEieVaL4hu2SFTfLMnf3/preview
+
+12. Security and Compliance  [s12.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1PpLxIDfWfpnVrlnOmMbnwHen9cAVT-V1/preview
+    002. Overview of the AWS Shared Responsibility Model  ->  https://drive.google.com/file/d/1PmCZGSHcIBrzSsVyN42DqburD9nBPk93/preview
+    003. Infrastructure Protection AWS Shield  ->  https://drive.google.com/file/d/1PskipO-GP1JKzozac-sq_KqkpttfyLNx/preview
+    004. Infrastructure Protection AWS Web Application Firewall WAF  ->  https://drive.google.com/file/d/1PsOzrvIWAY28ioNY64OYk9ZTIJsETAT8/preview
+    005. DEMO Infrastructure Protection AWS Web Application Firewall WAF  ->  https://drive.google.com/file/d/1Pz8pnKMK9sJqioyum3rnXDyd3FJ0Bsrg/preview
+    006. Data Protection AWS Key Management System KMS and CloudHSM  ->  https://drive.google.com/file/d/1Q-1WPv7AJSpjobLocFb-8r8DtmdXWbx_/preview
+    007. DEMO Working with Keys in AWS KMS  ->  https://drive.google.com/file/d/1Q-2wvJlUp6mWCwDvFZRnKssAMyhiRKXK/preview
+    008. Data Protection AWS Certificate Manager ACM  ->  https://drive.google.com/file/d/1Q9dapGaJteLxqsgCdnhNHiodqUptWmCY/preview
+    009. Data Protection AWS Secrets Manager  ->  https://drive.google.com/file/d/1Q9L38lSNDNznHk3lb4piP5UCvdse46jZ/preview
+    010. DEMO Working with AWS Secrets Manager  ->  https://drive.google.com/file/d/1QIA0eJEezCFT8mLTnjN0P26hpvz5qwQ6/preview
+    011. Data Protection Amazon Macie  ->  https://drive.google.com/file/d/1QGAn6MLe6NaELwmvnGE4CAYdxj_YWlo1/preview
+    012. Detection Amazon Inspector  ->  https://drive.google.com/file/d/1QFtCJGvlsleQrKUsxdVyPK3SjZoD3zzE/preview
+    013. Detection Amazon GuardDuty  ->  https://drive.google.com/file/d/1QMUNWqrmtbRwMGW_CmQ61HLhqu31I3C9/preview
+    014. Detection AWS Config Overview  ->  https://drive.google.com/file/d/1QIlxBGt4a_MZTl9XCzAKD9Jm219i1zQK/preview
+    015. DEMO Working with AWS Config  ->  https://drive.google.com/file/d/1QO8fyjO5ZG1BgGrr3rX41VCe0qnXqw_6/preview
+    016. Detection AWS Security Hub  ->  https://drive.google.com/file/d/1QNlJoDK1HqxW1Gh2pHyzsIK73uYXg9FM/preview
+    017. DEMO A Tour of AWS Security Hub  ->  https://drive.google.com/file/d/1QjSGVT3cRN61HOnvSsr3Xrbtl0evQ7Xj/preview
+    018. Incident Response Amazon Detective  ->  https://drive.google.com/file/d/1QgxpymTOOSLHlkNFRCXH8Sv0N6JW3ag9/preview
+    019. Compliance AWS Artifact  ->  https://drive.google.com/file/d/1QgqI4Mfm8n13vouCO-pzsNoDGJbgouBV/preview
+    020. DEMO A Tour of AWS Artifact  ->  https://drive.google.com/file/d/1QeKl_z60iu51fow2WxnRsFU2iclfp7Z9/preview
+    021. Important Points to Remember  ->  https://drive.google.com/file/d/1QqJepxbrQOh7gBHKw2SFu2PabY-8vh6I/preview
+
+13. Automation and Governance  [s13.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1RLSew_xypglFHt4OcgHPpppfrHQ39C2f/preview
+    002. CloudFormation Overview  ->  https://drive.google.com/file/d/1RIIaG_gey9Q-IBYsdPai5cxfoPuxdUNv/preview
+    003. DEMO Deploying a CloudFormation Template  ->  https://drive.google.com/file/d/1Qt6FXBeoxfV_sEqfIA27n4v0OmLcha9R/preview
+    004. AWS Service Catalog Overview  ->  https://drive.google.com/file/d/1R5PCdMqfeIGSvxxKo_vhbt2_JyA_qqg_/preview
+    005. AWS Systems Manager and Parameter Store Overview  ->  https://drive.google.com/file/d/1R21cfxYuyRfVXJJj1k8ugbo-hgHVIV_0/preview
+    006. Important Points to Remember  ->  https://drive.google.com/file/d/1Qxca7sJeVlXArzhkTgDkTzAXiUGGaQpH/preview
+
+14. DNS and Network Routing  [s14.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1RPJYjDsqe1Q6gyogCIDhWTbTXW_d2PIh/preview
+    002. Domain Name System DNS Basics  ->  https://drive.google.com/file/d/1RMybTrdVob9ePk0dI6ff-gUua2K-RM7m/preview
+    003. Amazon Route 53 Overview  ->  https://drive.google.com/file/d/1RPSUnCvMCelo9kdU948oVRQXTYLb982-/preview
+    004. DEMO Working with Record Types in Route 53  ->  https://drive.google.com/file/d/1RYdZf2cLGfNCfY9r5zHHXO-xJJs3LyaY/preview
+    005. CloudFront Overview  ->  https://drive.google.com/file/d/1RcXFdIQvyLBhJ5nve9em2Y7TDgDGIb8d/preview
+    006. DEMO Setting up a CloudFront Distribution with an S3 Origin  ->  https://drive.google.com/file/d/1RkjAtnOfT7bolvirXAEnN3SKpWjM3QH7/preview
+    007. AWS Global Accelerator Overview  ->  https://drive.google.com/file/d/1RutkOa0bzGHk6nVXNyCBSPwKt6d-Pz9C/preview
+    008. Important Points to Remember  ->  https://drive.google.com/file/d/1RsOjT72o3aGlNsV8e2vJp57QYSZPGPsE/preview
+
+15. Application Integration  [s15.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1RwzKojWVNfcCirvRkk52EVLmYCkY9rzu/preview
+    002. Amazon API Gateway Overview  ->  https://drive.google.com/file/d/1Rwfuh5UVJ_iM0n2y8YX-smjGV0RvBTSD/preview
+    003. DEMO Creating a REST API with API Gateway and Lambda  ->  https://drive.google.com/file/d/1S0tPPiytwaY8Yh41svkzoBzaNwhOXvJg/preview
+    004. Amazon Simple Queue Service SQS Overview  ->  https://drive.google.com/file/d/1RvahbmPT1NXMOmLyDeeRLaFj3odpy_hZ/preview
+    005. SQS Queue Types and Functionality  ->  https://drive.google.com/file/d/1S49_wq1IeNm_9fhkefFgfewkFX_JlPT_/preview
+    006. DEMO Sending and Receiving Messages with SQS  ->  https://drive.google.com/file/d/1S8O3H7muCYoAsR2GA5gSHSHMqk-OLq2c/preview
+    007. Simple Notification Service SNS Overview  ->  https://drive.google.com/file/d/1S6Ml9uaKpI-9G4jkcUfBLz0GOLWcMJ-k/preview
+    008. DEMO Sending an Email Using Amazon SNS  ->  https://drive.google.com/file/d/1SF_Yy67kuSgew_ev9Af5aCYXe6fDillG/preview
+    009. Amazon EventBridge CloudWatch Events Overview  ->  https://drive.google.com/file/d/1SBSW9_nUvBwqWFba_nWZp3psuCKyUKkw/preview
+    010. AWS Step Functions Overview  ->  https://drive.google.com/file/d/1SNSPHPu3oh6wicX2huMYkk8muXSpgWrT/preview
+    011. Important Points to Remember  ->  https://drive.google.com/file/d/1STkWjhGVZEkF4LxYE0FgWp9SWLdwcXUh/preview
+
+16. Artificial Intelligence and Machine Learning  [s16.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1Svb-Tmqj__nxF78yBJBSmGchFhpZzzuA/preview
+    002. The AWS Artificial Intelligence and Machine Learning Stack  ->  https://drive.google.com/file/d/1T4hsaNhfusrCNnRwip4rR6oo20gIs-Wg/preview
+    003. Important Points to Remember  ->  https://drive.google.com/file/d/1SfZycs_TSy0vPRDV8k4jBd_fiJCXi4uv/preview
+
+17. Backup and Recovery  [s17.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1S_MQuaq-enJFY_zRygwH-eCtO-RcNyPu/preview
+    002. Disaster Recovery Terminology and Strategies  ->  https://drive.google.com/file/d/1SYWUfNZENnKfprRuLXVGxjr26tNcoh61/preview
+    003. Overview of Backup Features in AWS  ->  https://drive.google.com/file/d/1SX-aRpj3oDLdw142Sa5JtKSKMPm5v2Z1/preview
+    004. DEMO Data Lifecycle Manager Overview  ->  https://drive.google.com/file/d/1ScDaO3RoZKDA7WsfUBJekOOZNlJsRVEh/preview
+    005. DEMO Creating a Backup with AWS Backup  ->  https://drive.google.com/file/d/1T7AMczy_K7ahZmVRtjfClMlOgBcDX57c/preview
+    006. DEMO Restoring a RDS Database to a Point in Time  ->  https://drive.google.com/file/d/1TFfx2vBU3Hex3ZZzi46Cfy40pqWONpAd/preview
+    007. DEMO Restoring a RDS Database from a Snapshot  ->  https://drive.google.com/file/d/1T88OirIcbsH8YjihWEBPH2cx-E8loSCi/preview
+    008. DEMO Promoting a RDS Read Replica  ->  https://drive.google.com/file/d/1TOZg3R3o6VuTJuIVrSAdksuxDKX5vP7K/preview
+    009. Disaster Recovery with Amazon Aurora  ->  https://drive.google.com/file/d/1TXAXXxFszUvXkcqyc1jn5t4MMieB4N7C/preview
+    010. Amazon Aurora Multi-Master and Global Databases  ->  https://drive.google.com/file/d/1TWScig_cu93c8AB7h0hnuN9qdxsoFUOZ/preview
+    011. Important Points to Remember  ->  https://drive.google.com/file/d/1TTYDIYzIfzvOYPF0X9bVsEaMwAXamxiP/preview
+
+18. Billing and Pricing  [s18.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1TkjUSI_aZC1zZ11XJ-KLkS5cwtVrlr_h/preview
+    002. Overview of EC2 Pricing Models  ->  https://drive.google.com/file/d/1Tb03o0Qk06QQXLs2qzMqySj4S0vOvvny/preview
+    003. DEMO Working with Savings Plans Spot and Reserved Instances  ->  https://drive.google.com/file/d/1TpKWlV_wcxjQTfgFcFb5Kslnayb0u-WX/preview
+    004. Organizations and Consolidated Billing  ->  https://drive.google.com/file/d/1TaJ8udwxpvUjcqzAamXbazDHQMZNJKcu/preview
+    005. DEMO Working with the Billing Dashboard  ->  https://drive.google.com/file/d/1TsWuFW_LYm6jDv07YSK3pTj4f11vMOZx/preview
+    006. DEMO Working with AWS Cost Explorer  ->  https://drive.google.com/file/d/1U0iadBnW2jnay8W33fI7fRTQkazpRgU_/preview
+    007. DEMO Working with the AWS Pricing Calculator  ->  https://drive.google.com/file/d/1U0oOXvKqNnJ2XLZy_uQ2ysL5VZS-JYoe/preview
+    008. AWS Budgets and Billing AlertsAlarms Overview  ->  https://drive.google.com/file/d/1T_k6TZafpLJypnlQ3wW-o96IV1BNlS9O/preview
+    009. DEMO Setting up AWS Budgets and CloudWatch Billing AlertsAlarms  ->  https://drive.google.com/file/d/1U6luRwz1D36kEr6AV3G0RhbxKEq3yVsB/preview
+    010. IMPORTANT Deleting Resources Used in the Course  ->  https://drive.google.com/file/d/1UB-wFkbss8GkucgjrXO9O18auH5tXwBh/preview
+    011. Important Points to Remember  ->  https://drive.google.com/file/d/1UFDKaNdF7h-7n0LvcLbbjpOlkjA4bK00/preview
+
+19. The Well-Architected Framework and Cloud Adoption Framework CAF  [s19.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1V490g7Q3WgDtmdaiNi-KOGphZgQ_SzGs/preview
+    002. The Reliability Pillar  ->  https://drive.google.com/file/d/1UrLZEXrs5HFPdgIu5NU9nqrC6sQzUjxt/preview
+    003. The Performance Efficiency Pillar  ->  https://drive.google.com/file/d/1UjoGHzVKXCwLREIAROeiaZDk8VkEkCkN/preview
+    004. The Security Pillar  ->  https://drive.google.com/file/d/1VEdGZoURPCQbyCko8VE258r3bOk4HvhZ/preview
+    005. The Cost Optimization Pillar  ->  https://drive.google.com/file/d/1VD2kFz3he5uK0rhXtfMNMMzWxnghY15j/preview
+    006. The Operational Excellence Pillar  ->  https://drive.google.com/file/d/1VCYvv1mCEEKII-yKM0mFV1lHAVoUv-xM/preview
+    007. The Sustainability Pillar  ->  https://drive.google.com/file/d/1V4In4fXxYHnpU6JeizYB9NR7h6r8l5t3/preview
+
+20. Preparing for the Exam  [s20.html]
+    001. Module Introduction  ->  https://drive.google.com/file/d/1VsdS5aUjhuXsYcCpxrKuKI7ib9MOsN32/preview
+    002. DEMO Reviewing the Exam Guide  ->  https://drive.google.com/file/d/1VqzVD_zY0M7mq3xY-RY4xzwxfGOgQwrN/preview
+    003. DEMO Test-Taking Tips and Sample Questions  ->  https://drive.google.com/file/d/1VtK_L1WZU7rGl6X3ThqqpYQdV4_ZZ-Fd/preview
+    004. DEMO Registering for the Exam Cost and Vouchers  ->  https://drive.google.com/file/d/1Vwn3SLO531eCzWTmKelA80f9sBbxye9F/preview
+    005. Exam Day What to Expect  ->  https://drive.google.com/file/d/1Vw292SnKvNcxVp9CFZIUikRkj_P2Tn4_/preview
+    006. Next Steps  ->  https://drive.google.com/file/d/1W8RufCOpDqxtAFOzk2dSRz0sNLi-TIxi/preview
+
+21. Where To Go From Here  [s21.html]
+    001. Thank You  ->  https://drive.google.com/file/d/1WD7qQhD1ck80vZ1PMmm8h7phGpWxasqV/preview

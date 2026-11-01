@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://LexCode30.github.io/AWS_Certified_Solutions_Architect/sitemap.xml
